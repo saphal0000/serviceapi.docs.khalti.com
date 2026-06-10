@@ -1,3 +1,8 @@
+**Version 9.5, Jun 9th 2026**
+
+  * Added documentation for Worldcup NETTV API (recharge). [Worldcup NETTV API](../Worldcup/nettv/nettv-api.md)
+  * Added documentation for Worldcup Max Tv (recharge). [Worldcup MAXTV API](../Worldcup/maxtv/maxtv.md)
+
 **Version 9.4, Jun 4th 2026**
 
    * Removed the mobile number and email fields from the required fields [Worldcup-DGO Coupon](../Worldcup/Dishhome/dishhome-go.md)
