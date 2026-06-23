@@ -193,7 +193,7 @@ nav:
       - Test Data: test-data/testdata.md
   
   - Rc Card: Rc card/rccard.md
-
+  - NTC eSim : eSim/ntcesim.md
   - Changelog: Servicescodes/changelog.md
   - FAQ's: Servicescodes/faq.md
 
