@@ -12,8 +12,6 @@
 
 ##### **Acme Internet:** `acme-internet`
 
-##### **Chitrawan Unique Net:** `chitrawan-unique-net` [(has been Shifted in Chitrawan)]( /Internet/chitrawan/)
-
 **Type:** Multi-Step API
 
 ### Test Username:

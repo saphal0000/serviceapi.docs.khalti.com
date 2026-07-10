@@ -45,7 +45,7 @@ nav:
     - Dishhome: Internet/dishhome.md
     - Subisu: Internet/subisu.md
     # - Classic Tech: Internet/classictech.md
-    - Wifi Nepal: Internet/wifi-nepal.md
+    # - Wifi Nepal: Internet/wifi-nepal.md
     - Broadlink: Internet/broadlink.md
     - Times Internet: Internet/timesinternet.md
     - Arrownet: Internet/arrownet.md
@@ -74,6 +74,7 @@ nav:
     - 3G Vision: Internet/3g-vision.md
     - First Link: Internet/first-link.md
     - Sky Broadband: Internet/sky-broadband.md
+    - Genius : Internet/genius.md
     
 
   - Insurance: 

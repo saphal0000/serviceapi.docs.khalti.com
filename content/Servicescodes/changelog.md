@@ -1,3 +1,9 @@
+
+**Version 9.6, Jun 10-th 2026**
+
+  * Removed chitrawan from konnect and added to Genius. [Chitrawan Unique Net](../Internet/genius.md)
+  * Updated Wifi Nepal API to Genius. [Wifi Nepal](../Internet/genius.md)
+
 **Version 9.5, Jun 9th 2026**
 
   * Added documentation for Worldcup NETTV API (recharge). [Worldcup NETTV API](../Worldcup/nettv/nettv-api.md)
